@@ -1,0 +1,5 @@
+(library
+ (name srk_final_3110)
+ (instrumentation
+  (backend bisect_ppx))
+ (libraries graphics camlimages.graphics))

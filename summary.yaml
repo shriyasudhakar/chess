@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Rayhan Khanna
+    netid: rk696
+  - name: Shriya Sudhakar
+    netid: ss3576
+  - name: Kiran Mitra
+    netid: km936
+# Your PM.
+pm:
+  name: Joel Valerio
+  netid: jev66
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Chess"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ss3576/srk-final-3110"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a chess game. It provides same functionalities and player experience
+  as any multiplayer online chess game. Some special moves our game supports include 
+  castling, en passant and automatic promotion of Pawn to Queen. Our game prints 
+  previous moves made, allows backtracking, and even highlights all possible moves a piece 
+  can take. The GUI takes inspiration from chess.com.

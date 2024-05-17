@@ -1,0 +1,4 @@
+(executable
+ (public_name srk_final_3110)
+ (name main)
+ (libraries srk_final_3110 graphics))

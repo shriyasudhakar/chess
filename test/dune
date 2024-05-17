@@ -1,0 +1,8 @@
+(test
+ (name test_srk_final_3110)
+ (deps
+  (glob_files_rec images/*))
+ (libraries ounit2 srk_final_3110)
+ (action
+  (progn
+   (run %{test} -runner sequential))))
