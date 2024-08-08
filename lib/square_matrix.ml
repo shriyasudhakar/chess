@@ -1,5 +1,3 @@
-(** @author Kiran Mitra (km936) *)
-
 (** Abstraction Function: The array [arr] represents a square matrix. The
     element in the square matrix at row x and column y is in [arr.(x).(y)].
     Representation Invariant: It is a square, so the number of rows is equal to
